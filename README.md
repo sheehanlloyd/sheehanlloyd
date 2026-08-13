@@ -136,7 +136,3 @@ Built from raw `ptrace` up — software `BRK` breakpoints, DWARF line/type/CFI p
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheehanlloyd&show_icons=true&hide_border=true&theme=github_dark_dimmed&hide_title=true" alt="GitHub stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheehanlloyd&layout=compact&hide_border=true&theme=github_dark_dimmed&langs_count=8" alt="Top languages" height="150">
-</p>
